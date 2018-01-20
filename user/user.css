@@ -1,0 +1,19 @@
+.login{
+    height: 300px;
+    width: 55%;
+    margin: 100px auto;
+    padding: 40px 50px;
+    background-color: #fff;
+}
+.error{
+    color: red;
+}
+/* signup */
+/* signup */
+.signup{
+    height: 400px;
+    width: 55%;
+    margin: 100px auto;
+    padding: 40px 50px;
+    background-color: #fff;
+}

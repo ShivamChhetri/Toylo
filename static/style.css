@@ -1,0 +1,64 @@
+
+/* main.php */
+.box{
+    height: 200px;
+    width: 55%;
+    margin: auto;
+    margin-top:100px;
+    padding: 25px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+
+.more{
+    width: 55%;
+    height: 25px;
+    background: -moz-linear-gradient(bottom,rgba(0, 0, 0,1),rgba(0, 0, 0,0.4));
+    color: #fff;
+    margin: -25px auto;
+    display: flex;
+    position: relative;
+    z-index: 100;
+}
+.more h4{margin: auto;}
+
+
+/* form */
+.form{
+    border: 1px solid #999;
+    width:55%;
+    margin: 100px auto;
+}
+.form div{
+    width: 90%;
+    height: 90%;
+    margin: 10px auto;
+}
+
+/* addpost.php */
+/* addpost,php */
+.form span{
+    color: black;
+}
+
+/* Search.php */
+/* Search.php */
+.holder{
+    width: 55%;
+    margin: 100px auto;
+    padding:25px;
+    background-color: #fff;
+}
+
+/* Comment */
+/* Comment */
+.box2{
+    /* height: 200px; */
+    width: 55%;
+    margin: auto;
+    margin-top:100px;
+    padding: 25px;
+    background-color: #fff;
+    overflow: hidden;
+}
